@@ -1,1 +1,5 @@
-main
+git checkout nhanh
+
+git fetch origin // lấy nhanh về
+
+git checkout -b nhanh origin/nhanh
