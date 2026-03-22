@@ -2,4 +2,6 @@ git checkout nhanh
 
 git fetch origin // lấy nhanh về
 
+git branch -r  // kiểm tra
+
 git checkout -b nhanh origin/nhanh
